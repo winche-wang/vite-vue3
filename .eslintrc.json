@@ -1,0 +1,9 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "@typescript-eslint/comma-dangle": [
+      "error",
+      "never"
+    ]
+  }
+}
